@@ -1,6 +1,4 @@
-# AirMouse Concept is developed from Scratch by Raja Ragavan.
-# follow me in Facebook Instagram linkedIn
-# RustyPrione
+
 
 import cv2
 import numpy as np
