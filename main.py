@@ -100,5 +100,5 @@ while True:
     cv2.putText(img, str(int(FramesPerSecond)), (20, 50), cv2.FONT_HERSHEY_PLAIN, 3, (255, 0, 255), 3)
 
     # Listening AirMouse via camera
-    cv2.imshow("AirMouse - Raja Ragavan (RUSTYPRIONE,Inc.)", img)
+    cv2.imshow("AirMouse", img)
     cv2.waitKey(1)
